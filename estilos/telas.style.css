@@ -7,6 +7,7 @@
 
     main{
         max-width: none;
+        background-color: rgba(128, 128, 128, 0.13);
     }
 
     div#fundonav{
@@ -59,6 +60,7 @@
     div.fundo{
         width: 49%;
         height: 100%;
+        background-color: white;
     }
 
     div#mountain{

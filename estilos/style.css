@@ -92,7 +92,7 @@ main{
     max-width: 500px;
     margin: auto;
     padding: 1.3em 18px;
-    background-color: rgba(128, 128, 128, 0.13);
+    background-color: #ffffff;
 }
 
 img{
@@ -100,8 +100,24 @@ img{
     width: 100%;
 }
 
+section#ofertas>h2{
+    padding: 0.2em 0px;
+}
+
+section#ofertas>p{
+    padding: 1em 0px;
+}
+
+section.nature>h2{
+    padding: 0.2em 0px;
+}
+
+section.nature>p{
+    padding: 1em 0px;
+}
+
 div.fundo{
-    background-color: white;
+    background-color: #EFEFEF;
     margin: 1em 0px;
 }
 
