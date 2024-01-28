@@ -1,0 +1,83 @@
+@media screen and (min-width:760px) {
+    header{
+        padding: 8px 6em;
+        color: red;
+    }
+
+    div#fundonav{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: black url(../imagens/fundo\ pesquisa.jpg) no-repeat center/cover scroll;
+        height:400px;
+    }
+
+    img{
+        margin: 0px;
+    }
+
+    section#consulta{
+        margin: auto;
+        width: 80%;
+        background-color: white;
+    }
+
+    section#ofertas>h2 , section#ofertas>p{
+        margin-left: 0.5%;
+        padding: 0.7em 0px;
+    }
+
+    section#ofertas img{
+        width: 24%;
+        height: 50%;
+        margin-top: 0.5%;
+        margin-left: 0.5%;
+    }
+
+    section#ofertas img#maior{
+        float: left;
+        height: 100%;
+        width: 49%;
+        margin: 0.5%;
+    }
+
+    section#alinhar{
+        justify-content: center;
+        display: flex;
+    }
+
+    section.nature>h2 , section.nature>p{
+        margin-left: 0.5%;
+        padding: 0.7em 0px;
+    }
+
+    div.fundo{
+        width: 49%;
+        height: 100%;
+    }
+
+    div#mountain{
+        margin-left: 1%;
+    }
+
+    section#desconto{
+       margin: 0px 0.5%;
+    }
+
+    section#contato{
+        margin: 0px 0.5%;
+    }
+
+    section#contato input{
+        width: 99.7%;
+        margin: 1em 0px;
+        padding: 0.8em 0px;
+    }
+
+}
+
+@media screen and (min-width:1350px) {
+    main{
+        padding: 1em 5em 5em 5em;
+    }
+}

@@ -94,7 +94,7 @@ main{
 }
 
 img{
-    margin: 0.3em 0px;
+    margin: 0.3em auto;
     width: 100%;
 }
 
@@ -118,7 +118,7 @@ div.fundo>p{
 section#desconto{
     background-color: gray;
     color: white;
-    padding: 1.2em 0.8em;
+    padding: 1.2em 0.5em;
 }
 
 section#desconto>h2{
