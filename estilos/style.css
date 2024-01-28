@@ -89,6 +89,8 @@ section#consulta input[value]{
 }
 
 main{
+    max-width: 500px;
+    margin: auto;
     padding: 1.3em 18px;
     background-color: rgba(128, 128, 128, 0.13);
 }
