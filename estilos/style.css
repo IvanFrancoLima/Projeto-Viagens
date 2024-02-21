@@ -7,13 +7,13 @@
 ::-webkit-scrollbar{
     width: 0px;
     height:0px;
-    box-sizing: border-box;
 }
 
 *{
     font-family: 'logo','Times New Roman', Times, serif;
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box;
 }
 
 body{
